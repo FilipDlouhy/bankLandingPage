@@ -534,12 +534,7 @@ opacity: 0.8;
   
     }
   }
-  @media only screen and (max-width:1100px) {
 
-   footer{
-    margin-top:889px;
-   }
-  }
 
   @media only screen and (max-width:1100px) {
     .articles{
@@ -617,6 +612,12 @@ opacity: 0.8;
   
     }
   }
+  @media only screen and (max-width:928px) {
+    footer{
+      margin-top:1800px;
+    }
+  }
+
   @media only screen and (max-width:858px) {
     .features-text{
       margin-top:400px;
@@ -625,7 +626,5 @@ opacity: 0.8;
        .inv-btn-two{
         font-size: 1.5rem;
        }
-       footer{
-        margin-top:1800px;
-      }
+      
   }
