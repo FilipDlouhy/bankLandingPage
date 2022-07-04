@@ -34,7 +34,7 @@ function hamburgerShow(){
     let background = document.querySelector(".hamburger-background")
     menu.style.left = "31%";
     background.style.backgroundColor ="rgba(0, 0, 0, 0.9)";
-    background.style.top = "11.5%"
+    background.style.top = "2.1%"
     hamburgerClose.style.display= "block";
     hamburgerOpen.style.display = "none";
     background.style.zIndex = "1500"
